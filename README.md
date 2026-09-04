@@ -66,8 +66,24 @@ Logistic Regression was used as the classification algorithm.
 - Warehouse load and items count also positively influence delay risk.
 - The model achieved an ROC-AUC score of approximately 0.71.
 
+- ## Future Improvements
+
+- Experiment with advanced Machine Learning models such as Random Forest and XGBoost.
+- Perform hyperparameter tuning to improve model performance.
+- Deploy the model using Streamlit for real-time delivery delay predictions.
+- Integrate additional real-world logistics and weather-related features.
+- Improve model performance using larger datasets.
+
+## Project Structure
+
+```text
+delivery-delay-risk-prediction-ml/
+│
+├── Delivery_Delay_Risk_Prediction.ipynb
+├── dataset_09_delivery_delay_risk.csv
+├── README.md
+└── .gitignore
+```
+
 ## Conclusion
 The Logistic Regression model was successfully developed to predict delivery delay risk. The model provides useful insights into factors influencing delivery delays.
-
-## Author
-Karthick Raja S
