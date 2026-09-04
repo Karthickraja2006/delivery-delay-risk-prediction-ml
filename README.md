@@ -70,4 +70,4 @@ Logistic Regression was used as the classification algorithm.
 The Logistic Regression model was successfully developed to predict delivery delay risk. The model provides useful insights into factors influencing delivery delays.
 
 ## Author
-Karthickraja
+Karthick Raja S
